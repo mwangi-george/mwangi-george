@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+I'm a statistician and data wrangler with a passion for using the tidyverse to clean, analyze, and visualize data.
 
 <!--
 **mwangi-george/mwangi-george** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
