@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a statistician and data wrangler with a passion for using the tidyverse to clean, analyze, and visualize data. I am open to partnering on data science and analytics endeavors. If you have any opportunities for collaboration, please do not hesitate to get in touch.
+I'm a data scientist with a passion for using the R ecosystem, specifically the tidyverse, to clean, analyze, and visualize data. I am open to partnering on data science and analytics endeavors. If you have any opportunities for collaboration, please do not hesitate to get in touch.
 
 Am currently learning how to make shiny applications and dashboards that track crucial high-level performance indicators and enabling drilling down into data that require thorough investigation. [See my first simple Shiny app](https://georgengugi.shinyapps.io/shinyApp/)
 
