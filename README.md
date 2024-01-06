@@ -22,7 +22,7 @@ Passionate about leveraging data to drive informed decisions, I'm a dedicated da
 
 Let's make data tell its story! 📊📚💡
 
-[Explore my first simple Shiny app](https://smartpath.shinyapps.io/SpotifySongsAnalysis/)
+[Explore my first simple Shiny app](https://gmwangi.shinyapps.io/DairySalesAnalysisV1/)
 
 [![George's github stats](https://github-readme-stats.vercel.app/api?username=mwangi-george&theme=orange-green)](https://github.com/mwangi-george/Statistical-Analysis)
 
