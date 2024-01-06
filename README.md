@@ -1,4 +1,4 @@
-📊 Data Scientist | 📈 R Enthusiast | 🧪 Exploring Insights
+📊 Data Scientist | 📈 R Enthusiast | 🧪 Exploring Julia
 
 Passionate about leveraging data to drive informed decisions, I'm a dedicated data scientist proficient in the R ecosystem. My journey in the world of data revolves around transforming raw information into actionable insights.
 
