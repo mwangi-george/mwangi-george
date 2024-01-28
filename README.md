@@ -1,4 +1,4 @@
-📊 Data Scientist | 📈 R Enthusiast | 🧪 Exploring Julia, Ruby & Ruby on Rails |
+📊 Data Scientist | 📈 R Enthusiast | 🧪 Exploring Python, Julia, Ruby & Ruby on Rails |
 
 Passionate about leveraging data to drive informed decisions, I'm a dedicated data scientist proficient in the R ecosystem. My journey in the world of data revolves around transforming raw information into actionable insights.
 
