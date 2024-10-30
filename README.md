@@ -1,28 +1,13 @@
-📊 Data Scientist | 📈 R Enthusiast | 🧪 Exploring Python, Julia, Ruby & Ruby on Rails |
-
-Passionate about leveraging data to drive informed decisions, I'm a dedicated data scientist proficient in the R ecosystem. My journey in the world of data revolves around transforming raw information into actionable insights.
+I am passionate about transforming data into actionable insights, crafting solutions with R, Python, SQL, and Excel. From building robust backend APIs with FastAPI to creating dynamic Shiny apps and automating workflows with R and Python, I bring innovation to every project.
 
 🔬 Skills:
 
 * Data Analysis
 * Statistical Modeling
 * Data Visualization
-* Machine Learning with R
+* Machine Learning
 * Data Cleaning & Wrangling
-
-🔍 What I Offer:
-
-* Crafting data-driven solutions
-* Unveiling patterns in complex data
-* Translating numbers into compelling visuals with shiny dashboards 
-* Building predictive models
-* Collaborative problem-solving
-
-🌐 Let's connect and explore the data landscape together. Feel free to reach out for collaborations, discussions, or to dive into the world of R and data science.
-
-Let's make data tell its story! 📊📚💡
-
-[Explore my first simple Shiny app](https://gmwangi.shinyapps.io/DairySalesAnalysisV1/)
+* Backend Development (Python, FastAPI, PosgreSQL)
 
 [![George's github stats](https://github-readme-stats.vercel.app/api?username=mwangi-george&theme=orange-green)](https://github.com/mwangi-george/Statistical-Analysis)
 
