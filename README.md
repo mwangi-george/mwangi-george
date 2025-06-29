@@ -19,13 +19,11 @@ MDAP (Mpesa Data Analyzer Platform) is a tool designed to analyze Mpesa transact
 
 ## Skills
 
-**Backend Development:** FastAPI, SQLAlchemy, Flask
+**Backend Development:** FastAPI, SQLAlchemy, Postgres, Alembic
 
-**Frontend Development:** Javascript, Typescript, Tailwind CSS, React
+**Frontend Development:** Javascript, Typescript, Tailwind CSS, React, RShiny
 
-**Data Management:** Tidyverse, Polars
-
-**Database Management:** PostgreSQL, MySQL, MongoDB
+**Data Management:** R & Tidyverse, Polars
 
 **Interactive Data Visualization:** Highcharts, Plotly, Apexcharts
 
