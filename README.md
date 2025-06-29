@@ -17,19 +17,19 @@ A comprehensive user management API built with FastAPI, SQLAlchemy, and asyncpg 
 MDAP (Mpesa Data Analyzer Platform) is a tool designed to analyze Mpesa transactions over time, providing insights into financial trends and patterns built with FastAPI, RShiny, SQLite & Docker. It Provide features such as Transaction Analysis - Analyze Mpesa transactions over specified time periods, Visualization - Visualize transaction trends and patterns using interactive charts and graphs, Data Insights - Gain insights into financial behaviors and trends based on transaction data. [View project here](https://github.com/mwangi-george/mdap)
 
 
-
 ## Skills
 
 **Backend Development:** FastAPI, SQLAlchemy, Flask
 
 **Frontend Development:** Javascript, Typescript, Tailwind CSS, React
 
+**Data Management:** Tidyverse, Polars
+
 **Database Management:** PostgreSQL, MySQL, MongoDB
 
-**Data Visualization:** Highcharts, Ggplot2, Apexcharts
+**Interactive Data Visualization:** Highcharts, Plotly, Apexcharts
 
-**Machine Learning:** Tidymodels, Modeltime
-
+**Time Series Forecasting:** Timetk, Modeltime, Tidymodels, 
 
 
 ## Contact Me
