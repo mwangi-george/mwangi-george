@@ -1,13 +1,37 @@
-I am passionate about transforming data into actionable insights, crafting solutions with R, Python, SQL, and Excel. From building robust backend APIs with FastAPI to creating dynamic Shiny apps and automating workflows with R and Python, I bring innovation to every project.
+## About Me
 
-🔬 Skills:
+I'm passionate about building robust backend solutions and data-driven applications. My expertise spans across FastAPI, SQLAlchemy, PostgreSQL, and modern JavaScript frameworks. Currently exploring AI and machine learning applications in healthcare supply chain management.
 
-* Data Analysis
-* Statistical Modeling
-* Data Visualization
-* Machine Learning
-* Data Cleaning & Wrangling
-* Backend Development (Python, FastAPI, PosgreSQL)
+## Projects
 
+**Wiredcraft Users API**
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/mwangi-george/)  [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/mwangi__george)  [![GitHub followers](https://img.shields.io/github/followers/mwangi-george.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mwangi-george?tab=followers)
+A comprehensive user management API built with FastAPI, SQLAlchemy, and asyncpg for PostgreSQL.
+
+Features: secure authentication, CRUD operations for users, and JWT token-based authorization.
+
+[Explore Wiredcraft Users API](https://github.com/mwangi-george/wiredcraft-backend-developer-test)
+
+**Mpesa Data Analyzer Program**
+
+MDAP (Mpesa Data Analyzer Program) is a tool designed to analyze Mpesa transactions over time, providing insights into financial trends and patterns.
+
+Features: Backend - Python with FastAPI, Frontend - R with Shiny, Database - SQLite, Deployment - Docker & Docker-Compose.
+
+[View project here](https://github.com/mwangi-george/mdap)
+
+## Skills
+
+**Backend Development:** FastAPI, SQLAlchemy, Flask
+
+**Database Management:** PostgreSQL, MySQL, MongoDB
+
+**Data Visualization:** Highcharts, Ggplot2, Apexcharts
+
+**Machine Learning:** Tidymodels, Modeltime
+
+## Contact Me
+
+Email: *mwangigeorge648@gmail.com*
+
+LinkedIn: *[Connect with me](https://www.linkedin.com/in/georgemwangikenya/)*
