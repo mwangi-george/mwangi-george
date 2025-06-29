@@ -6,6 +6,8 @@ I'm passionate about building robust backend solutions and data-driven applicati
 
 ## Projects
 
+A lot of my work exists in private repositories, but below are some of my projects:
+
 -   **Wiredcraft Users API**
 
 A comprehensive user management API built with FastAPI, SQLAlchemy, and asyncpg for PostgreSQL. It API provides secure authentication, CRUD operations for users, and JWT token-based authorization. [Explore Wiredcraft Users API](https://github.com/mwangi-george/wiredcraft-backend-developer-test)
@@ -19,6 +21,8 @@ MDAP (Mpesa Data Analyzer Platform) is a tool designed to analyze Mpesa transact
 ## Skills
 
 **Backend Development:** FastAPI, SQLAlchemy, Flask
+
+**Frontend Development:** Javascript, Typescript, Tailwind CSS, React
 
 **Database Management:** PostgreSQL, MySQL, MongoDB
 
