@@ -9,11 +9,6 @@ I am passionate about transforming data into actionable insights, crafting solut
 * Data Cleaning & Wrangling
 * Backend Development (Python, FastAPI, PosgreSQL)
 
-[![George's github stats](https://github-readme-stats.vercel.app/api?username=mwangi-george&theme=orange-green)](https://github.com/mwangi-george/Statistical-Analysis)
-
-[![George\'s github streak](https://github-readme-streak-stats.herokuapp.com/?user=mwangi-george&theme=orange-green)](https://github.com/mwangi-george/Statistical-Analysis)
-
-[![George\'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwangi-george&theme=orange-green)](https://github.com/mwangi-george/Statistical-Analysis)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/mwangi-george/)
 
