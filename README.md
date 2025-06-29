@@ -10,8 +10,4 @@ I am passionate about transforming data into actionable insights, crafting solut
 * Backend Development (Python, FastAPI, PosgreSQL)
 
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/mwangi-george/)
-
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/mwangi__george)
-
-[![GitHub followers](https://img.shields.io/github/followers/mwangi-george.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mwangi-george?tab=followers)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/mwangi-george/)  [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/mwangi__george)  [![GitHub followers](https://img.shields.io/github/followers/mwangi-george.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mwangi-george?tab=followers)
