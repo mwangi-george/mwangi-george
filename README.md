@@ -1,6 +1,6 @@
 ## About Me
 
-I'm passionate about building robust backend solutions and data-driven applications. My expertise spans across FastAPI, SQLAlchemy, PostgreSQL, R, Shiny and modern JavaScript frameworks. Currently exploring AI and machine learning applications in healthcare supply chain management.
+I'm passionate about building robust backend solutions and data-driven applications. My expertise spans across FastAPI, GraphQl, SQLAlchemy, PostgreSQL, R, Shiny and modern JavaScript frameworks. Currently exploring AI and machine learning applications in healthcare supply chain management.
 
 
 
@@ -19,7 +19,7 @@ MDAP (Mpesa Data Analyzer Platform) is a tool designed to analyze Mpesa transact
 
 ## Skills
 
-**Backend Development:** FastAPI, SQLAlchemy, Postgres, Alembic
+**Backend Development:** FastAPI, SQLAlchemy, Postgres, Alembic, GraphQl etc.
 
 **Frontend Development:** Javascript, Typescript, Tailwind CSS, React, RShiny
 
