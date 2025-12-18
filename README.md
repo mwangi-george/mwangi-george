@@ -8,6 +8,10 @@ I'm passionate about building robust backend solutions and data-driven applicati
 
 A lot of my work exists in private repositories, but below are some of my projects:
 
+-   **Family Planning Data Extraction API (DHIS2 Connector)**
+
+This API integrates directly with DHIS2 (KHIS) to automate large-scale ETL of consumption and service delivery data. The system asynchronously ingests metadata and historical records, applies complex domain-specific transformations and aggregations, flattens hierarchical organisation units, and produces standardized, analytics-ready datasets, with built-in observability through structured logging and request tracing. [View the project here](https://github.com/mwangi-george/family-planning-data-extraction-api)
+
 -   **Wiredcraft Users API**
 
 A comprehensive user management API built with FastAPI, SQLAlchemy, and asyncpg for PostgreSQL. It API provides secure authentication, CRUD operations for users, and JWT token-based authorization. [Explore Wiredcraft Users API](https://github.com/mwangi-george/wiredcraft-backend-developer-test)
